@@ -1,6 +1,6 @@
 # Project Information
-site_name: PagerDuty Security Training
-site_description: Public versions of PagerDuty's employee security training courses.
+site_name: Vidyard Security Training
+site_description: Vidyard's employee security training courses.
 site_author: PagerDuty, Inc.
 site_favicon: 'assets/img/favicon.png'
 site_url: https://sudo.pagerduty.com
@@ -31,7 +31,7 @@ pages:
   - For Engineers: 'for_engineers/index.md'
 
 # Analytics
-google_analytics: ['UA-8759953-1', 'auto']
+# google_analytics: ['UA-8759953-1', 'auto']
 
 # Extensions
 markdown_extensions:
